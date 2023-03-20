@@ -1,4 +1,5 @@
-![thumbnail-Formação Java](https://user-images.githubusercontent.com/66698429/226364995-0e0425c4-bf83-4a03-a58e-3c48e4b89c05.png)
+![thumbnail-Formação Java (1)](https://user-images.githubusercontent.com/66698429/226387135-e8427970-6342-4322-9d4c-a3ddff07e7eb.png)
+
 
 # Java: Criando a sua primeira aplicação
 
